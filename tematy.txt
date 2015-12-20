@@ -11,7 +11,7 @@ Pliki źródłowe projektów proszę wrzucić na własne konta GitHub.
 3. Miosz Kraska   A: "Interfejs biletomatu",  B:
 4.Agata Surmiak A: "Symulacja silnika krokowego" B:
 5.Grzegorz Kulikowski A: "Gra zrecznosciowa" B:
-6.
+6.Jagoda Wierzbicka A: "Pianino", 
 7.
 8.
 9.
