@@ -9,10 +9,10 @@ Pliki źródłowe projektów proszę wrzucić na własne konta GitHub.
 1. Adam Śliwiński A    :"Notepad",                B:"Simple Browser"
 2. Bartosz Platek A    : 'Paint',                 B:'Przegladarka internetowa'
 3. Miosz Kraska   
-  A : "Interfejs biletomatu"    [https://github.com/pa202185/Biletomat],  
-  B :"Przegladarka internetwa"  [https://github.com/pa202185/przeglondarka_projekt_koncowy]
+A                      : "Interfejs biletomatu"    [https://github.com/pa202185/Biletomat],  
+B                      :"Przegladarka internetwa"  [https://github.com/pa202185/przeglondarka_projekt_koncowy]
 4.Agata Surmiak A      : "Symulacja silnika krokowego" B:
-5.Grzegorz Kulikowski A: "Gra zrecznosciowa" B:
+5.Grzegorz Kulikowski A: "Gra zrecznosciowa" B: "Prosta przegldarka"
 6.Jagoda Wierzbicka A  : "Pianino",         B:Tic Tac Toe
 7.
 8.
